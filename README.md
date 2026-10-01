@@ -10,7 +10,7 @@
 в `genedata.txt`. Поддерживается RLE-кодирование аминокислотных цепочек.
 
 ## Запуск
-
+    cd /d C:\Study\FSE\znik
     dotnet run -- sequences.1.txt commands.1.txt genedata.txt
 
 ## Файлы
